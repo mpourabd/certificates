@@ -1,3 +1,4 @@
-<html>
-    <embed src="./Coursera ZENPHS3JV843.pdf" width="800px" height="2100px" />
-</html>
+<object data="Coursera ZENPHS3JV843 (1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="Coursera ZENPHS3JV843 (1).pdf">
+    </embed>
+</object>
